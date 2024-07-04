@@ -1,13 +1,13 @@
 import './App.css'
 import Greetings from "./components/Greetings.jsx";
-import Card from "./components/Card.jsx";
+import CardList from "./components/CardList.jsx";
 
 function App() {
 
   return (
     <>
       <Greetings name={'Iker'} />
-      <Card />
+      <CardList />
     </>
 
 
